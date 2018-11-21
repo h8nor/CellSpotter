@@ -1,0 +1,10 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text eol=auto
+
+# Temporary
+*.tmp
+~$*.doc*
+~$*.xls*
+
+# Excel Backup File
+*.xlk
