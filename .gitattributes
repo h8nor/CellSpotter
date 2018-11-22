@@ -7,4 +7,5 @@
 ~$*.xls*
 
 # Excel Backup File
+*.xar
 *.xlk
