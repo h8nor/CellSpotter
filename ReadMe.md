@@ -1,12 +1,16 @@
-[MS-PL License]://opensource.org/licenses/ms-pl.html
+[MS-PL License]://github.com/bopoh13/CellSpotter/blob/master/LICENSE
 
-## :cyclone: Contributing code
+# Contributing code
 
-We are happy to receive Pull Requests adding new features and solving bugs. As for new features, please contact us before doing major work.
+We are happy to receive Pull Requests adding new features and solving bugs. As for new features, 
+please contact us before doing major work.
 
 ### Git setup
 
-Since Windows and UNIX-based systems differ in terms of line endings, it is a very good idea to configure git autocrlf settings.
+Download [client hook] to the local repository directory `REPO\.git\hooks` without extention `.sh`.
+
+Since Windows and UNIX-based systems differ in terms of line endings, it is a very good idea 
+to configure git autocrlf settings.
 
 * On *Windows* we recommend setting `core.autocrlf` to `true`.
 	``` bash
@@ -22,8 +26,10 @@ Since Windows and UNIX-based systems differ in terms of line endings, it is a ve
 
 Please use 2 spaces for indentation.
 
+[client hook]://gist.github.com/c55f1538454755fdff71fba0d686e371
 
-## :cyclone: Questions & support
+
+# Questions & support
 
 ### Localization
 

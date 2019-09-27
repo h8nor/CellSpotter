@@ -1,4 +1,4 @@
-[MS-PL License]://opensource.org/licenses/ms-pl.html
+[License]://creativecommons.org/licenses/by-nc-sa/4.0/deed.ru
 
 ## :cyclone: План разработки надстройки
 
@@ -26,7 +26,8 @@
 
 ### Прочие настройки и функции Excel
 
-* [ ] Заменить в шаблоне `xls?\xl\styles.xml` атрибут `numFmtId="0"` на `numFmtId="49"` (текстовый формат для книги)
+* [x] Создавать шаблон по схеме через Zip контейнер
+* [x] Заменить в шаблоне `xls?\xl\styles.xml` атрибут `numFmtId="0"` на `numFmtId="49"` (текстовый формат для книги)
 * [ ] Интервально читать данные из столбца и записывать в новую таблицу (учитывать количество колонок)
 
 ## :cyclone: Преобразование CSV в Excel

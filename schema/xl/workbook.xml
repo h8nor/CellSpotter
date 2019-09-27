@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<workbook xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+	<fileVersion appName="xl" lastEdited="1" lowestEdited="1" rupBuild="4505"/>
+	<workbookPr filterPrivacy="1" defaultThemeVersion="124226"/>
+	<bookViews>
+		<workbookView xWindow="0" yWindow="0" windowWidth="14805" windowHeight="8010"/>
+	</bookViews>
+	<sheets>
+		<sheet name="Tab0" sheetId="1" r:id="rId3"/>
+	</sheets>
+	<calcPr calcId="122211" fullCalcOnLoad="1"/>
+</workbook>
