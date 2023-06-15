@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<connections xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+	<connection id="1" keepAlive="1" name="Запрос — page_catalog" description="Соединение с запросом &quot;page_catalog&quot; в книге." type="5" refreshedVersion="0" background="1">
+		<dbPr connection="Provider=Microsoft.Mashup.OleDb.1;Data Source=$Workbook$;Location=page_catalog;Extended Properties=&quot;&quot;" command="SELECT * FROM [page_catalog]" />
+	</connection>
+	<connection id="2" keepAlive="1" name="Запрос — pageID" description="Соединение с запросом &quot;pageID&quot; в книге." type="5" refreshedVersion="0" background="1">
+		<dbPr connection="Provider=Microsoft.Mashup.OleDb.1;Data Source=$Workbook$;Location=pageID;Extended Properties=&quot;&quot;" command="SELECT * FROM [pageID]" />
+	</connection>
+	<connection id="3" keepAlive="1" name="Запрос — product" description="Соединение с запросом &quot;product&quot; в книге." type="5" refreshedVersion="6" background="1" saveData="1">
+		<dbPr connection="Provider=Microsoft.Mashup.OleDb.1;Data Source=$Workbook$;Location=product;Extended Properties=&quot;&quot;" command="SELECT * FROM [product]" />
+	</connection>
+	<connection id="4" keepAlive="1" name="Запрос — productID" description="Соединение с запросом &quot;productID&quot; в книге." type="5" refreshedVersion="0" background="1">
+		<dbPr connection="Provider=Microsoft.Mashup.OleDb.1;Data Source=$Workbook$;Location=productID;Extended Properties=&quot;&quot;" command="SELECT * FROM [productID]" />
+	</connection>
+</connections>

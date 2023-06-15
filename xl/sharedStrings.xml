@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="8" uniqueCount="8">
+	<si>
+		<t>
+			__sort
+		</t>
+	</si>
+	<si>
+		<t>
+			name
+		</t>
+	</si>
+	<si>
+		<t>
+			brand
+		</t>
+	</si>
+	<si>
+		<t>
+			sale
+		</t>
+	</si>
+	<si>
+		<t>
+			priceU1
+		</t>
+	</si>
+	<si>
+		<t>
+			priceU2
+		</t>
+	</si>
+	<si>
+		<t>
+			Бойцовский клуб
+		</t>
+	</si>
+	<si>
+		<t>
+			Издательство АСТ
+		</t>
+	</si>
+</sst>
