@@ -5,6 +5,9 @@
 
 ### Hotkeys `vscode`
 
-<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> - trigger formatter `xml`
+<kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> - trigger formatter `xml` **unless**
+* `docProps/app.xml`  
+* `docProps/core.xml`
+* `xl/theme/theme1.xml`
 
 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> - preview `md` page

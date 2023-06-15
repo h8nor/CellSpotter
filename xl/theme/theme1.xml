@@ -1,259 +1,259 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<theme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="Тема Office">
-	<themeElements>
-		<clrScheme name="Стандартная">
-			<dk1>
-				<sysClr val="windowText" lastClr="000000" />
-			</dk1>
-			<lt1>
-				<sysClr val="window" lastClr="FFFFFF" />
-			</lt1>
-			<dk2>
-				<srgbClr val="44546A" />
-			</dk2>
-			<lt2>
-				<srgbClr val="E7E6E6" />
-			</lt2>
-			<accent1>
-				<srgbClr val="5B9BD5" />
-			</accent1>
-			<accent2>
-				<srgbClr val="ED7D31" />
-			</accent2>
-			<accent3>
-				<srgbClr val="A5A5A5" />
-			</accent3>
-			<accent4>
-				<srgbClr val="FFC000" />
-			</accent4>
-			<accent5>
-				<srgbClr val="4472C4" />
-			</accent5>
-			<accent6>
-				<srgbClr val="70AD47" />
-			</accent6>
-			<hlink>
-				<srgbClr val="0563C1" />
-			</hlink>
-			<folHlink>
-				<srgbClr val="954F72" />
-			</folHlink>
-		</clrScheme>
-		<fontScheme name="Стандартная">
-			<majorFont>
-				<latin typeface="Calibri Light" panose="020F0302020204030204" />
-				<ea typeface="" />
-				<cs typeface="" />
-				<font script="Jpan" typeface="游ゴシック Light" />
-				<font script="Hang" typeface="맑은 고딕" />
-				<font script="Hans" typeface="等线 Light" />
-				<font script="Hant" typeface="新細明體" />
-				<font script="Arab" typeface="Times New Roman" />
-				<font script="Hebr" typeface="Times New Roman" />
-				<font script="Thai" typeface="Tahoma" />
-				<font script="Ethi" typeface="Nyala" />
-				<font script="Beng" typeface="Vrinda" />
-				<font script="Gujr" typeface="Shruti" />
-				<font script="Khmr" typeface="MoolBoran" />
-				<font script="Knda" typeface="Tunga" />
-				<font script="Guru" typeface="Raavi" />
-				<font script="Cans" typeface="Euphemia" />
-				<font script="Cher" typeface="Plantagenet Cherokee" />
-				<font script="Yiii" typeface="Microsoft Yi Baiti" />
-				<font script="Tibt" typeface="Microsoft Himalaya" />
-				<font script="Thaa" typeface="MV Boli" />
-				<font script="Deva" typeface="Mangal" />
-				<font script="Telu" typeface="Gautami" />
-				<font script="Taml" typeface="Latha" />
-				<font script="Syrc" typeface="Estrangelo Edessa" />
-				<font script="Orya" typeface="Kalinga" />
-				<font script="Mlym" typeface="Kartika" />
-				<font script="Laoo" typeface="DokChampa" />
-				<font script="Sinh" typeface="Iskoola Pota" />
-				<font script="Mong" typeface="Mongolian Baiti" />
-				<font script="Viet" typeface="Times New Roman" />
-				<font script="Uigh" typeface="Microsoft Uighur" />
-				<font script="Geor" typeface="Sylfaen" />
-			</majorFont>
-			<minorFont>
-				<latin typeface="Calibri" panose="020F0502020204030204" />
-				<ea typeface="" />
-				<cs typeface="" />
-				<font script="Jpan" typeface="游ゴシック" />
-				<font script="Hang" typeface="맑은 고딕" />
-				<font script="Hans" typeface="等线" />
-				<font script="Hant" typeface="新細明體" />
-				<font script="Arab" typeface="Arial" />
-				<font script="Hebr" typeface="Arial" />
-				<font script="Thai" typeface="Tahoma" />
-				<font script="Ethi" typeface="Nyala" />
-				<font script="Beng" typeface="Vrinda" />
-				<font script="Gujr" typeface="Shruti" />
-				<font script="Khmr" typeface="DaunPenh" />
-				<font script="Knda" typeface="Tunga" />
-				<font script="Guru" typeface="Raavi" />
-				<font script="Cans" typeface="Euphemia" />
-				<font script="Cher" typeface="Plantagenet Cherokee" />
-				<font script="Yiii" typeface="Microsoft Yi Baiti" />
-				<font script="Tibt" typeface="Microsoft Himalaya" />
-				<font script="Thaa" typeface="MV Boli" />
-				<font script="Deva" typeface="Mangal" />
-				<font script="Telu" typeface="Gautami" />
-				<font script="Taml" typeface="Latha" />
-				<font script="Syrc" typeface="Estrangelo Edessa" />
-				<font script="Orya" typeface="Kalinga" />
-				<font script="Mlym" typeface="Kartika" />
-				<font script="Laoo" typeface="DokChampa" />
-				<font script="Sinh" typeface="Iskoola Pota" />
-				<font script="Mong" typeface="Mongolian Baiti" />
-				<font script="Viet" typeface="Arial" />
-				<font script="Uigh" typeface="Microsoft Uighur" />
-				<font script="Geor" typeface="Sylfaen" />
-			</minorFont>
-		</fontScheme>
-		<fmtScheme name="Стандартная">
-			<fillStyleLst>
-				<solidFill>
-					<schemeClr val="phClr" />
-				</solidFill>
-				<gradFill rotWithShape="1">
-					<gsLst>
-						<gs pos="0">
-							<schemeClr val="phClr">
-								<lumMod val="110000" />
-								<satMod val="105000" />
-								<tint val="67000" />
-							</schemeClr>
-						</gs>
-						<gs pos="50000">
-							<schemeClr val="phClr">
-								<lumMod val="105000" />
-								<satMod val="103000" />
-								<tint val="73000" />
-							</schemeClr>
-						</gs>
-						<gs pos="100000">
-							<schemeClr val="phClr">
-								<lumMod val="105000" />
-								<satMod val="109000" />
-								<tint val="81000" />
-							</schemeClr>
-						</gs>
-					</gsLst>
-					<lin ang="5400000" scaled="0" />
-				</gradFill>
-				<gradFill rotWithShape="1">
-					<gsLst>
-						<gs pos="0">
-							<schemeClr val="phClr">
-								<satMod val="103000" />
-								<lumMod val="102000" />
-								<tint val="94000" />
-							</schemeClr>
-						</gs>
-						<gs pos="50000">
-							<schemeClr val="phClr">
-								<satMod val="110000" />
-								<lumMod val="100000" />
-								<shade val="100000" />
-							</schemeClr>
-						</gs>
-						<gs pos="100000">
-							<schemeClr val="phClr">
-								<lumMod val="99000" />
-								<satMod val="120000" />
-								<shade val="78000" />
-							</schemeClr>
-						</gs>
-					</gsLst>
-					<lin ang="5400000" scaled="0" />
-				</gradFill>
-			</fillStyleLst>
-			<lnStyleLst>
-				<ln w="6350" cap="flat" cmpd="sng" algn="ctr">
-					<solidFill>
-						<schemeClr val="phClr" />
-					</solidFill>
-					<prstDash val="solid" />
-					<miter lim="800000" />
-				</ln>
-				<ln w="12700" cap="flat" cmpd="sng" algn="ctr">
-					<solidFill>
-						<schemeClr val="phClr" />
-					</solidFill>
-					<prstDash val="solid" />
-					<miter lim="800000" />
-				</ln>
-				<ln w="19050" cap="flat" cmpd="sng" algn="ctr">
-					<solidFill>
-						<schemeClr val="phClr" />
-					</solidFill>
-					<prstDash val="solid" />
-					<miter lim="800000" />
-				</ln>
-			</lnStyleLst>
-			<effectStyleLst>
-				<effectStyle>
-					<effectLst />
-				</effectStyle>
-				<effectStyle>
-					<effectLst />
-				</effectStyle>
-				<effectStyle>
-					<effectLst>
-						<outerShdw blurRad="57150" dist="19050" dir="5400000" algn="ctr" rotWithShape="0">
-							<srgbClr val="000000">
-								<alpha val="63000" />
-							</srgbClr>
-						</outerShdw>
-					</effectLst>
-				</effectStyle>
-			</effectStyleLst>
-			<bgFillStyleLst>
-				<solidFill>
-					<schemeClr val="phClr" />
-				</solidFill>
-				<solidFill>
-					<schemeClr val="phClr">
-						<tint val="95000" />
-						<satMod val="170000" />
-					</schemeClr>
-				</solidFill>
-				<gradFill rotWithShape="1">
-					<gsLst>
-						<gs pos="0">
-							<schemeClr val="phClr">
-								<tint val="93000" />
-								<satMod val="150000" />
-								<shade val="98000" />
-								<lumMod val="102000" />
-							</schemeClr>
-						</gs>
-						<gs pos="50000">
-							<schemeClr val="phClr">
-								<tint val="98000" />
-								<satMod val="130000" />
-								<shade val="90000" />
-								<lumMod val="103000" />
-							</schemeClr>
-						</gs>
-						<gs pos="100000">
-							<schemeClr val="phClr">
-								<shade val="63000" />
-								<satMod val="120000" />
-							</schemeClr>
-						</gs>
-					</gsLst>
-					<lin ang="5400000" scaled="0" />
-				</gradFill>
-			</bgFillStyleLst>
-		</fmtScheme>
-	</themeElements>
-	<objectDefaults />
-	<extraClrSchemeLst />
-	<extLst>
-		<ext uri="{05A4C25C-085E-4340-85A3-A5531E510DB2}">
-			<themeFamily xmlns:thm15="http://schemas.microsoft.com/office/thememl/2012/main" name="Office Theme" id="{62F939B6-93AF-4DB8-9C6B-D6C7DFDC589F}" vid="{4A3C46E8-61CC-4603-A589-7422A47A8E4A}" />
-		</ext>
-	</extLst>
-</theme>
+<a:theme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="Тема Office">
+	<a:themeElements>
+		<a:clrScheme name="Стандартная">
+			<a:dk1>
+				<a:sysClr val="windowText" lastClr="000000"/>
+			</a:dk1>
+			<a:lt1>
+				<a:sysClr val="window" lastClr="FFFFFF"/>
+			</a:lt1>
+			<a:dk2>
+				<a:srgbClr val="44546A"/>
+			</a:dk2>
+			<a:lt2>
+				<a:srgbClr val="E7E6E6"/>
+			</a:lt2>
+			<a:accent1>
+				<a:srgbClr val="5B9BD5"/>
+			</a:accent1>
+			<a:accent2>
+				<a:srgbClr val="ED7D31"/>
+			</a:accent2>
+			<a:accent3>
+				<a:srgbClr val="A5A5A5"/>
+			</a:accent3>
+			<a:accent4>
+				<a:srgbClr val="FFC000"/>
+			</a:accent4>
+			<a:accent5>
+				<a:srgbClr val="4472C4"/>
+			</a:accent5>
+			<a:accent6>
+				<a:srgbClr val="70AD47"/>
+			</a:accent6>
+			<a:hlink>
+				<a:srgbClr val="0563C1"/>
+			</a:hlink>
+			<a:folHlink>
+				<a:srgbClr val="954F72"/>
+			</a:folHlink>
+		</a:clrScheme>
+		<a:fontScheme name="Стандартная">
+			<a:majorFont>
+				<a:latin typeface="Calibri Light" panose="020F0302020204030204"/>
+				<a:ea typeface=""/>
+				<a:cs typeface=""/>
+				<a:font script="Jpan" typeface="游ゴシック Light"/>
+				<a:font script="Hang" typeface="맑은 고딕"/>
+				<a:font script="Hans" typeface="等线 Light"/>
+				<a:font script="Hant" typeface="新細明體"/>
+				<a:font script="Arab" typeface="Times New Roman"/>
+				<a:font script="Hebr" typeface="Times New Roman"/>
+				<a:font script="Thai" typeface="Tahoma"/>
+				<a:font script="Ethi" typeface="Nyala"/>
+				<a:font script="Beng" typeface="Vrinda"/>
+				<a:font script="Gujr" typeface="Shruti"/>
+				<a:font script="Khmr" typeface="MoolBoran"/>
+				<a:font script="Knda" typeface="Tunga"/>
+				<a:font script="Guru" typeface="Raavi"/>
+				<a:font script="Cans" typeface="Euphemia"/>
+				<a:font script="Cher" typeface="Plantagenet Cherokee"/>
+				<a:font script="Yiii" typeface="Microsoft Yi Baiti"/>
+				<a:font script="Tibt" typeface="Microsoft Himalaya"/>
+				<a:font script="Thaa" typeface="MV Boli"/>
+				<a:font script="Deva" typeface="Mangal"/>
+				<a:font script="Telu" typeface="Gautami"/>
+				<a:font script="Taml" typeface="Latha"/>
+				<a:font script="Syrc" typeface="Estrangelo Edessa"/>
+				<a:font script="Orya" typeface="Kalinga"/>
+				<a:font script="Mlym" typeface="Kartika"/>
+				<a:font script="Laoo" typeface="DokChampa"/>
+				<a:font script="Sinh" typeface="Iskoola Pota"/>
+				<a:font script="Mong" typeface="Mongolian Baiti"/>
+				<a:font script="Viet" typeface="Times New Roman"/>
+				<a:font script="Uigh" typeface="Microsoft Uighur"/>
+				<a:font script="Geor" typeface="Sylfaen"/>
+			</a:majorFont>
+			<a:minorFont>
+				<a:latin typeface="Calibri" panose="020F0502020204030204"/>
+				<a:ea typeface=""/>
+				<a:cs typeface=""/>
+				<a:font script="Jpan" typeface="游ゴシック"/>
+				<a:font script="Hang" typeface="맑은 고딕"/>
+				<a:font script="Hans" typeface="等线"/>
+				<a:font script="Hant" typeface="新細明體"/>
+				<a:font script="Arab" typeface="Arial"/>
+				<a:font script="Hebr" typeface="Arial"/>
+				<a:font script="Thai" typeface="Tahoma"/>
+				<a:font script="Ethi" typeface="Nyala"/>
+				<a:font script="Beng" typeface="Vrinda"/>
+				<a:font script="Gujr" typeface="Shruti"/>
+				<a:font script="Khmr" typeface="DaunPenh"/>
+				<a:font script="Knda" typeface="Tunga"/>
+				<a:font script="Guru" typeface="Raavi"/>
+				<a:font script="Cans" typeface="Euphemia"/>
+				<a:font script="Cher" typeface="Plantagenet Cherokee"/>
+				<a:font script="Yiii" typeface="Microsoft Yi Baiti"/>
+				<a:font script="Tibt" typeface="Microsoft Himalaya"/>
+				<a:font script="Thaa" typeface="MV Boli"/>
+				<a:font script="Deva" typeface="Mangal"/>
+				<a:font script="Telu" typeface="Gautami"/>
+				<a:font script="Taml" typeface="Latha"/>
+				<a:font script="Syrc" typeface="Estrangelo Edessa"/>
+				<a:font script="Orya" typeface="Kalinga"/>
+				<a:font script="Mlym" typeface="Kartika"/>
+				<a:font script="Laoo" typeface="DokChampa"/>
+				<a:font script="Sinh" typeface="Iskoola Pota"/>
+				<a:font script="Mong" typeface="Mongolian Baiti"/>
+				<a:font script="Viet" typeface="Arial"/>
+				<a:font script="Uigh" typeface="Microsoft Uighur"/>
+				<a:font script="Geor" typeface="Sylfaen"/>
+			</a:minorFont>
+		</a:fontScheme>
+		<a:fmtScheme name="Стандартная">
+			<a:fillStyleLst>
+				<a:solidFill>
+					<a:schemeClr val="phClr"/>
+				</a:solidFill>
+				<a:gradFill rotWithShape="1">
+					<a:gsLst>
+						<a:gs pos="0">
+							<a:schemeClr val="phClr">
+								<a:lumMod val="110000"/>
+								<a:satMod val="105000"/>
+								<a:tint val="67000"/>
+							</a:schemeClr>
+						</a:gs>
+						<a:gs pos="50000">
+							<a:schemeClr val="phClr">
+								<a:lumMod val="105000"/>
+								<a:satMod val="103000"/>
+								<a:tint val="73000"/>
+							</a:schemeClr>
+						</a:gs>
+						<a:gs pos="100000">
+							<a:schemeClr val="phClr">
+								<a:lumMod val="105000"/>
+								<a:satMod val="109000"/>
+								<a:tint val="81000"/>
+							</a:schemeClr>
+						</a:gs>
+					</a:gsLst>
+					<a:lin ang="5400000" scaled="0"/>
+				</a:gradFill>
+				<a:gradFill rotWithShape="1">
+					<a:gsLst>
+						<a:gs pos="0">
+							<a:schemeClr val="phClr">
+								<a:satMod val="103000"/>
+								<a:lumMod val="102000"/>
+								<a:tint val="94000"/>
+							</a:schemeClr>
+						</a:gs>
+						<a:gs pos="50000">
+							<a:schemeClr val="phClr">
+								<a:satMod val="110000"/>
+								<a:lumMod val="100000"/>
+								<a:shade val="100000"/>
+							</a:schemeClr>
+						</a:gs>
+						<a:gs pos="100000">
+							<a:schemeClr val="phClr">
+								<a:lumMod val="99000"/>
+								<a:satMod val="120000"/>
+								<a:shade val="78000"/>
+							</a:schemeClr>
+						</a:gs>
+					</a:gsLst>
+					<a:lin ang="5400000" scaled="0"/>
+				</a:gradFill>
+			</a:fillStyleLst>
+			<a:lnStyleLst>
+				<a:ln w="6350" cap="flat" cmpd="sng" algn="ctr">
+					<a:solidFill>
+						<a:schemeClr val="phClr"/>
+					</a:solidFill>
+					<a:prstDash val="solid"/>
+					<a:miter lim="800000"/>
+				</a:ln>
+				<a:ln w="12700" cap="flat" cmpd="sng" algn="ctr">
+					<a:solidFill>
+						<a:schemeClr val="phClr"/>
+					</a:solidFill>
+					<a:prstDash val="solid"/>
+					<a:miter lim="800000"/>
+				</a:ln>
+				<a:ln w="19050" cap="flat" cmpd="sng" algn="ctr">
+					<a:solidFill>
+						<a:schemeClr val="phClr"/>
+					</a:solidFill>
+					<a:prstDash val="solid"/>
+					<a:miter lim="800000"/>
+				</a:ln>
+			</a:lnStyleLst>
+			<a:effectStyleLst>
+				<a:effectStyle>
+					<a:effectLst/>
+				</a:effectStyle>
+				<a:effectStyle>
+					<a:effectLst/>
+				</a:effectStyle>
+				<a:effectStyle>
+					<a:effectLst>
+						<a:outerShdw blurRad="57150" dist="19050" dir="5400000" algn="ctr" rotWithShape="0">
+							<a:srgbClr val="000000">
+								<a:alpha val="63000"/>
+							</a:srgbClr>
+						</a:outerShdw>
+					</a:effectLst>
+				</a:effectStyle>
+			</a:effectStyleLst>
+			<a:bgFillStyleLst>
+				<a:solidFill>
+					<a:schemeClr val="phClr"/>
+				</a:solidFill>
+				<a:solidFill>
+					<a:schemeClr val="phClr">
+						<a:tint val="95000"/>
+						<a:satMod val="170000"/>
+					</a:schemeClr>
+				</a:solidFill>
+				<a:gradFill rotWithShape="1">
+					<a:gsLst>
+						<a:gs pos="0">
+							<a:schemeClr val="phClr">
+								<a:tint val="93000"/>
+								<a:satMod val="150000"/>
+								<a:shade val="98000"/>
+								<a:lumMod val="102000"/>
+							</a:schemeClr>
+						</a:gs>
+						<a:gs pos="50000">
+							<a:schemeClr val="phClr">
+								<a:tint val="98000"/>
+								<a:satMod val="130000"/>
+								<a:shade val="90000"/>
+								<a:lumMod val="103000"/>
+							</a:schemeClr>
+						</a:gs>
+						<a:gs pos="100000">
+							<a:schemeClr val="phClr">
+								<a:shade val="63000"/>
+								<a:satMod val="120000"/>
+							</a:schemeClr>
+						</a:gs>
+					</a:gsLst>
+					<a:lin ang="5400000" scaled="0"/>
+				</a:gradFill>
+			</a:bgFillStyleLst>
+		</a:fmtScheme>
+	</a:themeElements>
+	<a:objectDefaults/>
+	<a:extraClrSchemeLst/>
+	<a:extLst>
+		<a:ext uri="{05A4C25C-085E-4340-85A3-A5531E510DB2}">
+			<thm15:themeFamily xmlns:thm15="http://schemas.microsoft.com/office/thememl/2012/main" name="Office Theme" id="{62F939B6-93AF-4DB8-9C6B-D6C7DFDC589F}" vid="{4A3C46E8-61CC-4603-A589-7422A47A8E4A}"/>
+		</a:ext>
+	</a:extLst>
+</a:theme>
