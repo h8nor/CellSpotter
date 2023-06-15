@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<queryTable xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" name="ExternalData_1" connectionId="3" autoFormatId="0" applyNumberFormats="0" applyBorderFormats="0" applyFontFormats="1" applyPatternFormats="1" applyAlignmentFormats="0" applyWidthHeightFormats="0">
-	<queryTableRefresh preserveSortFilterLayout="0" nextId="7">
+<queryTable xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" name="ExternalData_1" connectionId="4" autoFormatId="16" applyNumberFormats="0" applyBorderFormats="0" applyFontFormats="0" applyPatternFormats="0" applyAlignmentFormats="0" applyWidthHeightFormats="0">
+	<queryTableRefresh nextId="7">
 		<queryTableFields count="6">
-			<queryTableField id="1" name="__sort" tableColumnId="13" />
-			<queryTableField id="2" name="name" tableColumnId="14" />
-			<queryTableField id="3" name="brand" tableColumnId="15" />
-			<queryTableField id="4" name="sale" tableColumnId="16" />
-			<queryTableField id="5" name="priceU1" tableColumnId="17" />
-			<queryTableField id="6" name="priceU2" tableColumnId="18" />
+			<queryTableField id="1" name="__sort" tableColumnId="1001" />
+			<queryTableField id="2" name="name" tableColumnId="1002" />
+			<queryTableField id="3" name="brand" tableColumnId="1003" />
+			<queryTableField id="4" name="sale" tableColumnId="1004" />
+			<queryTableField id="5" name="priceU1" tableColumnId="1005" />
+			<queryTableField id="6" name="priceU2" tableColumnId="1006" />
 		</queryTableFields>
 	</queryTableRefresh>
 </queryTable>

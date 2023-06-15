@@ -37,22 +37,7 @@
 	<cellStyles count="1">
 		<cellStyle name="Обычный" xfId="0" builtinId="0"/>
 	</cellStyles>
-	<dxfs count="6">
-		<dxf>
-			<numFmt numFmtId="0" formatCode="General"/>
-		</dxf>
-		<dxf>
-			<numFmt numFmtId="0" formatCode="General"/>
-		</dxf>
-		<dxf>
-			<numFmt numFmtId="0" formatCode="General"/>
-		</dxf>
-		<dxf>
-			<numFmt numFmtId="0" formatCode="General"/>
-		</dxf>
-		<dxf>
-			<numFmt numFmtId="0" formatCode="General"/>
-		</dxf>
+	<dxfs count="1">
 		<dxf>
 			<numFmt numFmtId="0" formatCode="General"/>
 		</dxf>

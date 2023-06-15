@@ -15,7 +15,7 @@
 				<a:srgbClr val="E7E6E6"/>
 			</a:lt2>
 			<a:accent1>
-				<a:srgbClr val="5B9BD5"/>
+				<a:srgbClr val="4472C4"/>
 			</a:accent1>
 			<a:accent2>
 				<a:srgbClr val="ED7D31"/>
@@ -27,7 +27,7 @@
 				<a:srgbClr val="FFC000"/>
 			</a:accent4>
 			<a:accent5>
-				<a:srgbClr val="4472C4"/>
+				<a:srgbClr val="5B9BD5"/>
 			</a:accent5>
 			<a:accent6>
 				<a:srgbClr val="70AD47"/>
@@ -74,6 +74,23 @@
 				<a:font script="Viet" typeface="Times New Roman"/>
 				<a:font script="Uigh" typeface="Microsoft Uighur"/>
 				<a:font script="Geor" typeface="Sylfaen"/>
+				<a:font script="Armn" typeface="Arial"/>
+				<a:font script="Bugi" typeface="Leelawadee UI"/>
+				<a:font script="Bopo" typeface="Microsoft JhengHei"/>
+				<a:font script="Java" typeface="Javanese Text"/>
+				<a:font script="Lisu" typeface="Segoe UI"/>
+				<a:font script="Mymr" typeface="Myanmar Text"/>
+				<a:font script="Nkoo" typeface="Ebrima"/>
+				<a:font script="Olck" typeface="Nirmala UI"/>
+				<a:font script="Osma" typeface="Ebrima"/>
+				<a:font script="Phag" typeface="Phagspa"/>
+				<a:font script="Syrn" typeface="Estrangelo Edessa"/>
+				<a:font script="Syrj" typeface="Estrangelo Edessa"/>
+				<a:font script="Syre" typeface="Estrangelo Edessa"/>
+				<a:font script="Sora" typeface="Nirmala UI"/>
+				<a:font script="Tale" typeface="Microsoft Tai Le"/>
+				<a:font script="Talu" typeface="Microsoft New Tai Lue"/>
+				<a:font script="Tfng" typeface="Ebrima"/>
 			</a:majorFont>
 			<a:minorFont>
 				<a:latin typeface="Calibri" panose="020F0502020204030204"/>
@@ -109,6 +126,23 @@
 				<a:font script="Viet" typeface="Arial"/>
 				<a:font script="Uigh" typeface="Microsoft Uighur"/>
 				<a:font script="Geor" typeface="Sylfaen"/>
+				<a:font script="Armn" typeface="Arial"/>
+				<a:font script="Bugi" typeface="Leelawadee UI"/>
+				<a:font script="Bopo" typeface="Microsoft JhengHei"/>
+				<a:font script="Java" typeface="Javanese Text"/>
+				<a:font script="Lisu" typeface="Segoe UI"/>
+				<a:font script="Mymr" typeface="Myanmar Text"/>
+				<a:font script="Nkoo" typeface="Ebrima"/>
+				<a:font script="Olck" typeface="Nirmala UI"/>
+				<a:font script="Osma" typeface="Ebrima"/>
+				<a:font script="Phag" typeface="Phagspa"/>
+				<a:font script="Syrn" typeface="Estrangelo Edessa"/>
+				<a:font script="Syrj" typeface="Estrangelo Edessa"/>
+				<a:font script="Syre" typeface="Estrangelo Edessa"/>
+				<a:font script="Sora" typeface="Nirmala UI"/>
+				<a:font script="Tale" typeface="Microsoft Tai Le"/>
+				<a:font script="Talu" typeface="Microsoft New Tai Lue"/>
+				<a:font script="Tfng" typeface="Ebrima"/>
 			</a:minorFont>
 		</a:fontScheme>
 		<a:fmtScheme name="Стандартная">

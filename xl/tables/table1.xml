@@ -2,12 +2,12 @@
 <table xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" id="1" name="product" displayName="product" ref="A1:F2" tableType="queryTable" totalsRowShown="0">
 	<autoFilter ref="A1:F2" />
 	<tableColumns count="6">
-		<tableColumn id="13" uniqueName="13" name="__sort" queryTableFieldId="1" dataDxfId="5" />
-		<tableColumn id="14" uniqueName="14" name="name" queryTableFieldId="2" dataDxfId="4" />
-		<tableColumn id="15" uniqueName="15" name="brand" queryTableFieldId="3" dataDxfId="3" />
-		<tableColumn id="16" uniqueName="16" name="sale" queryTableFieldId="4" dataDxfId="2" />
-		<tableColumn id="17" uniqueName="17" name="priceU1" queryTableFieldId="5" dataDxfId="1" />
-		<tableColumn id="18" uniqueName="18" name="priceU2" queryTableFieldId="6" dataDxfId="0" />
+		<tableColumn id="1001" uniqueName="1" name="__sort" queryTableFieldId="1" />
+		<tableColumn id="1002" uniqueName="2" name="name" queryTableFieldId="2" />
+		<tableColumn id="1003" uniqueName="3" name="brand" queryTableFieldId="3" />
+		<tableColumn id="1004" uniqueName="4" name="sale" queryTableFieldId="4" />
+		<tableColumn id="1005" uniqueName="5" name="priceU1" queryTableFieldId="5" />
+		<tableColumn id="1006" uniqueName="6" name="priceU2" queryTableFieldId="6" />
 	</tableColumns>
-	<tableStyleInfo name="TableStyleMedium5" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0" />
+	<tableStyleInfo name="TableStyleMedium7" showFirstColumn="0" showLastColumn="0" showRowStripes="1" showColumnStripes="0" />
 </table>
